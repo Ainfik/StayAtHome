@@ -1,0 +1,19 @@
+img{
+    width: 150px;
+}
+
+h1 {
+    color: rgb(67, 11, 219);
+}
+
+.MENU {
+    background-color: brown;
+}
+
+.MENU h3 {
+    color: aqua;
+}
+
+.MENU li {
+    color: aqua;
+}
